@@ -27,6 +27,7 @@ const config = {
 				hostname: "*",
 			},
 		],
+		dangerouslyAllowLocalIP: true,
 	},
 	typedRoutes: false,
 
